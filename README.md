@@ -1,5 +1,3 @@
 # VoiceTransform
 
-This is the Readme for the Voice Transform algorithm.
-
-Matlab and Python
+Voice Transform algorithm. Machine Learning and Signal Processing approach to voice transformation.
